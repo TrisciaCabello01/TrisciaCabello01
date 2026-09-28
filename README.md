@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Triscia!
+# 👋 Hi there, I'm TrisciaCabello!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Software+Development+%7C+IT+Support;AI+%7C+NLP+%7C+LLM;Always+Learning+New+Things;Welcome+to+My+GitHub!" />
