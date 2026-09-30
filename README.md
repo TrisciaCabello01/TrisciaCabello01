@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm TrisciaCabello!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Web+Developer; Software+Developer;Software+Engineer;IT+Support;AI+%7C+NLP+%7C+LLM;Always+Learning+New+Things;Welcome+to+My+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Web+Developer;Software+Developer;Software+Engineer;IT+Support;AI+%7C+NLP+%7C+LLM;Always+Learning+New+Things;Welcome+to+My+GitHub!" />
 </p>
 
 Welcome to my GitHub! I'm a Computer Science graduate interested in software development, IT support, artificial intelligence, and building practical technology solutions.
