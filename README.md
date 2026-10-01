@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a Computer Science graduate interested in software dev
 
 ## 👩‍💻 About Me
 
-<div align="justify">
+
 * 💻 I’m a **Computer Science graduate** interested in **software development, AI, NLP, LLMs, data, and IT support**.
 * 📸 I enjoy **photography** and exploring creative ways to capture and edit photos.
 * 🎛️ I’m interested in **sound, lighting, camera, and technical system setups** for events, live streams, and productions.
@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a Computer Science graduate interested in software dev
 * ⛪ I volunteer every Sunday with **The Feast Malabon, Catholic Prayer Community**
 * ☝  Helping with **media, livestreams, and production Ministry** while serving others and **serving the Lord**.
 * 🌱 I’m always interested in **learning new skills, exploring technology, and improving through hands-on experience**.
-</div>
+
 
 ## 🤖 AI & Research
 
