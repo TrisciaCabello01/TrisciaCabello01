@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a Computer Science graduate interested in software dev
 * 🎤 I enjoy **singing karaoke with my family** and listening to different kinds of music on Spotify and YouTube.
 * 💰 I’m interested in **personal finance, budgeting, and cash stuffing and unstuffing**.
 * 🐶🐱 I love **dogs and cats**.
-* ⛪ I volunteer every Sunday with **The Feast Malabon, Catholic Prayer Community**
+* ⛪ I volunteer every Sunday with **The Feast Malabon, Catholic Prayer Community**.
 * ☝  Helping with **media, livestreams, and production Ministry** while serving others and **serving the Lord**.
 * 🌱 I’m always interested in **learning new skills, exploring technology, and improving through hands-on experience**.
 
