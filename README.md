@@ -6,7 +6,6 @@
 
 Welcome to my GitHub! I'm a Computer Science graduate interested in software development, IT support, artificial intelligence, and building practical technology solutions.
 
-## 👨‍💻 About Me
 
 ## 👩‍💻 About Me
 
