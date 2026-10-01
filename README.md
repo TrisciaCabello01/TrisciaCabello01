@@ -101,7 +101,7 @@ Welcome to my GitHub! I'm a Computer Science graduate interested in software dev
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="[linkedin.com/in/trisciacabello01]">LinkedIn</a> •
   <!--<a href="[PORTFOLIO_URL]">Portfolio</a> •-->
   <a href="mailto:[cabello.t.bscs@gmail.com]">Email</a>
