@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm TrisciaCabello!
+# 👋 Hi there, I'm Triscia!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Web+Developer;Software+Developer;Software+Engineer;IT+Support;AI+%7C+NLP+%7C+LLM;I+Always+Enjoy+Learning+New+Things;Welcome+to+My+GitHub!" />
@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a Computer Science graduate interested in software dev
 * 💰 I’m interested in **personal finance, budgeting, and cash stuffing and unstuffing**.
 * 🐶🐱 I love **dogs and cats**.
 * ⛪ I volunteer every Sunday with **The Feast Malabon, Catholic Prayer Community**.
-* ☝  Helping with **media, livestreams, and production Ministry** while serving others and **serving the Lord**.
+* ☝  Helping with **Media, Livestreams, and Production Ministry** while serving others and **serving the Lord**.
 * 🌱 I’m always interested in **learning new skills, exploring technology, and improving through hands-on experience**.
 
 
