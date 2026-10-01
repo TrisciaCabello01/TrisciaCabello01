@@ -8,13 +8,22 @@ Welcome to my GitHub! I'm a Computer Science graduate interested in software dev
 
 ## 👨‍💻 About Me
 
-* 🎓 Bachelor of Science in **Computer Science**
-* 💻 Interested in **software development**, **web development**, and **IT support**
-* 🤖 Interested in **Artificial Intelligence, NLP, and Large Language Models**
-* 🔧 Hands-on experience in **computer and printer troubleshooting**
-* 🌐 Experience with **web, desktop, and academic software projects**
-* 🎨 Interested in **UI/UX, graphic design, and digital media**
-* 📚 Always learning and improving my technical skills
+## 👩‍💻 About Me
+
+* 💻 Computer Science graduate interested in **software development, AI, NLP, LLMs, data, and IT support**
+* 📸 Enjoy **photography** and exploring creative ways to capture and edit photos
+* 🎛️ Interested in **sounds, lighting, camera, and technical system setups** for events, live streams and productions
+* 🧶 Enjoy crocheting **dresses and accessories for dogs and cats**, as well as making crochet keychains
+* 🧵 Love **sewing, mending, and other hands-on creative projects**
+* 🚐 Interested in **camper van concepts, interior design, and home or room layouts**
+* 💃 Enjoy **dancing**, especially when I have free time
+* 📚 Like **reading** and learning about different topics
+* 🎤 Enjoy **singing** karaoke with the family and enjoying all music on Spotify and YouTube
+* 💰 Interested in **personal finance, budgeting, and cash stuffing/unstuffing**
+* 🐶🐱 Love **dogs and cats**
+* ⛪ Volunteer every Sunday with **The Feast Malabon, Catholic Prayer Community**, helping with media, livestreams, and production while serving others and **serving the Lord**
+* 🌱 Always interested in and enjoy **learning new skills, exploring technology, and improving through hands-on experience**
+
 
 ## 🤖 AI & Research
 
@@ -48,9 +57,9 @@ Welcome to my GitHub! I'm a Computer Science graduate interested in software dev
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 
 
-<!--## 💼 Experience
+## 💼 Experience
 
-**Computer & Printer Technician / Layout Editor**
+**Computer & Printer Technician Specialist / Layout Editor**
 
 * Computer and printer troubleshooting
 * Operating system and software installation
@@ -65,6 +74,7 @@ Welcome to my GitHub! I'm a Computer Science graduate interested in software dev
 * Event technical support
 * Equipment setup and troubleshooting
 * Livestream and technical operations
+* Faculty Printer Technician
 
 **The Feast CAMANA District**
 
