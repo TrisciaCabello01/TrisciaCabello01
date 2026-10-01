@@ -77,14 +77,6 @@ Welcome to my GitHub! I'm a Computer Science graduate interested in software dev
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_USERNAME]&layout=compact&theme=tokyonight" />
 </p>-->
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="[linkedin.com/in/trisciacabello01]">LinkedIn</a> •
-  <!--<a href="[PORTFOLIO_URL]">Portfolio</a> •-->
-  <a href="mailto:[cabello.t.bscs@gmail.com]">Email</a>
-</p>
-
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
@@ -106,6 +98,15 @@ Welcome to my GitHub! I'm a Computer Science graduate interested in software dev
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat\&logo=matplotlib\&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="[linkedin.com/in/trisciacabello01]">LinkedIn</a> •
+  <!--<a href="[PORTFOLIO_URL]">Portfolio</a> •-->
+  <a href="mailto:[cabello.t.bscs@gmail.com]">Email</a>
+</p>
+
 ---
 
 <p align="center">
