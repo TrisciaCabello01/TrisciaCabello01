@@ -9,20 +9,22 @@ Welcome to my GitHub! I'm a Computer Science graduate interested in software dev
 
 ## 👩‍💻 About Me
 
-* 💻 Computer Science graduate interested in **software development, AI, NLP, LLMs, data, and IT support**
-* 📸 Enjoy **photography** and exploring creative ways to capture and edit photos
-* 🎛️ Interested in **sounds, lighting, camera, and technical system setups** for events, live streams and productions
-* 🧶 Enjoy crocheting **dresses and accessories for dogs and cats**, as well as making crochet keychains
-* 🧵 Love **sewing, mending, and other hands-on creative projects**
-* 🚐 Interested in **camper van concepts, interior design, and home or room layouts**
-* 💃 Enjoy **dancing**, especially when I have free time
-* 📚 Like **reading** and learning about different topics
-* 🎤 Enjoy **singing** karaoke with the family and enjoying all music on Spotify and YouTube
-* 💰 Interested in **personal finance, budgeting, and cash stuffing/unstuffing**
-* 🐶🐱 Love **dogs and cats**
-* ⛪ Volunteer every Sunday with **The Feast Malabon, Catholic Prayer Community**, helping with media, livestreams, and production while serving others and **serving the Lord**
-* 🌱 Always interested in and enjoy **learning new skills, exploring technology, and improving through hands-on experience**
-
+<div align="justify">
+* 💻 I’m a **Computer Science graduate** interested in **software development, AI, NLP, LLMs, data, and IT support**.
+* 📸 I enjoy **photography** and exploring creative ways to capture and edit photos.
+* 🎛️ I’m interested in **sound, lighting, camera, and technical system setups** for events, live streams, and productions.
+* 🧶 I enjoy crocheting **dresses and accessories for dogs and cats**, as well as making crochet keychains.
+* 🧵 I love **sewing, mending, and other hands-on creative projects**.
+* 🚐 I’m interested in **camper van concepts, interior design, and home or room layouts**.
+* 💃 I enjoy **dancing**, especially during my free time.
+* 📚 I like **reading** and learning about different topics.
+* 🎤 I enjoy **singing karaoke with my family** and listening to different kinds of music on Spotify and YouTube.
+* 💰 I’m interested in **personal finance, budgeting, and cash stuffing and unstuffing**.
+* 🐶🐱 I love **dogs and cats**.
+* ⛪ I volunteer every Sunday with **The Feast Malabon, Catholic Prayer Community**
+* ☝  Helping with **media, livestreams, and production Ministry** while serving others and **serving the Lord**.
+* 🌱 I’m always interested in **learning new skills, exploring technology, and improving through hands-on experience**.
+</div>
 
 ## 🤖 AI & Research
 
